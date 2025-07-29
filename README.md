@@ -52,7 +52,7 @@ I’m always interested in collaborating with innovators, builders, and educator
 ## 🔗 Connect with Me
 
 [![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BuildNextGenAI)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mosher)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mosher-6a0b1119a)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonathan_a_mosher)
 
 ---
